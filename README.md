@@ -67,6 +67,19 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
+<h1>Hey there! 👋</h1>
+<img  src="lofiboy.webp"/>
+
+<br><br> _Hi, I'm **BONIPHACE MD**, a frontend developer dedicated to crafting seamless digital experiences. With a keen eye for design and a knack for coding, I blend creativity with functionality to build sleek, responsive websites and intuitive web applications_
+<br><br>
+_In my non-coding hours, I enjoy sketching, 3D modeling, gaming, or embarking on cosmic exploration._ 🌌
+<br><br>
+🤝 _Let's connect and collaborate on innovative projects. Feel free to reach out—I'm always excited about new opportunities and challenges!_
+<br>
+<br>
+
+
+
 ## 1.FIRST STEP 
 ## Fork Boniphace Md Repo
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝐶𝐿𝐼𝐶𝐾+𝑇𝑂+𝐹𝑂𝑅𝐾+𝑇𝐻𝐸+𝑅𝐸𝑃𝑂)](https://git.io/typing-svg)
