@@ -69,7 +69,6 @@
 
 <h1>Hey there! 👋</h1>
 <img  src="lofiboy.webp"/>
-
 <br><br> _Hi, I'm **BONIPHACE MD**, a frontend developer dedicated to crafting seamless digital experiences. With a keen eye for design and a knack for coding, I blend creativity with functionality to build sleek, responsive websites and intuitive web applications_
 <br><br>
 _In my non-coding hours, I enjoy sketching, 3D modeling, gaming, or embarking on cosmic exploration._ 🌌
