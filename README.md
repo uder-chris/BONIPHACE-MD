@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://github.com/boniphace478/Boniphace-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Galaxy680/BONIPHACE-MD-1/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-MD/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
@@ -123,7 +123,7 @@ star✨ my repo if you like this bot🤖
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
-  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://boniphace-xmd-1.vercel.app/"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https:github.com/boniphace478/BONIPHACE-XMD-1"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𓅓+𝑆𝐴𝐹𝐸+𝑇𝑂+𝐻𝐸𝑅𝑂𝐾𝑈+𓅓)](https://git.io/typing-svg)
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
